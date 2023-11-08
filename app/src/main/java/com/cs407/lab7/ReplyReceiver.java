@@ -23,4 +23,5 @@ public class ReplyReceiver extends BroadcastReceiver {
             NotificationHelper.getInstance().showNotification(context, id);
         }
     }
+
 }
